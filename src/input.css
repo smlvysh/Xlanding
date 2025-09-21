@@ -1,1 +1,11 @@
 @import "tailwindcss";
+.container1{
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* button 
+rounded-[10px] w-[281px] h-[63px] bg-[#0862ee] font-[700] text-[24px] text-[#fff] text-center 
+
+
+*/
